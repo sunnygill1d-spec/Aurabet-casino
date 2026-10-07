@@ -1,0 +1,6 @@
+{
+  "name": "AuraBet Crypto Casino",
+  "description": "High-performance crypto casino app featuring real-time betting, instant wallet integration, provably fair mechanics, 24/7 support, referral program, and biometric security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
